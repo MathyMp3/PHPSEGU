@@ -1,4 +1,5 @@
 //principal.php
+//prueba de version 
 <?php session_start();
 if (!empty($_SESSION['usuario'])) { ?>
 <!DOCTYPE html>
